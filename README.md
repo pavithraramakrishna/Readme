@@ -13,6 +13,5 @@ Myself Pavithra R, I'm a Computer Science Student, and I'm also interested in le
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srdeepa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
